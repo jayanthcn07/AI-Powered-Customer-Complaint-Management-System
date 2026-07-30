@@ -1,0 +1,17 @@
+Customer: Sarah Alvarez
+Email: s.alvarez@wellspringpharmacy.com
+Contact: +1-555-902-4471
+Product: Atorvastatin 20mg Tablets
+Product Code: ATV-20-TAB
+Batch Number: AT2402C
+Manufacturing Date: 2024-02-20
+Expiry Date: 2026-02-19
+Market: United States
+
+Complaint Type: Packaging/Labeling
+We received a carton of Atorvastatin 20mg Tablets, batch AT2402C, where two of the
+blister strips inside were missing their printed batch number and expiry date -
+the strips were blank in that section while the rest of the carton labeling was
+normal. All tablets appear physically intact and normal in appearance. This looks
+like a printing/labeling line issue rather than a product quality defect. Please
+confirm if this is a known issue with this batch.

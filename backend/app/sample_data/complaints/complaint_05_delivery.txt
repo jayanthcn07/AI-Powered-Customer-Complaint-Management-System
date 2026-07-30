@@ -1,0 +1,16 @@
+Customer: Lucas Bennett
+Email: lucas.bennett@northgatepharma.co.uk
+Contact: +44-7700-900123
+Product: Metformin 500mg Tablets
+Product Code: MET-500-TAB
+Batch Number: MF23205
+Manufacturing Date: 2023-12-05
+Expiry Date: 2025-12-04
+Market: United Kingdom
+
+Complaint Type: Delivery/Logistics
+Our shipment of Metformin 500mg tablets (batch MF23205) arrived with the cold-chain
+indicator showing a temperature excursion during transit (recorded 2 hours above
+25C threshold). Product was otherwise sealed and undamaged. Requesting guidance on
+whether this batch remains usable given the temperature excursion, and any stability
+data supporting short-term excursions.

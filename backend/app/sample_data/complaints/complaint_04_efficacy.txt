@@ -1,0 +1,17 @@
+Customer: James Okafor
+Email: j.okafor@primehealthdistributors.com
+Contact: +234-802-334-1290
+Product: Amoxicillin 500mg Capsules
+Product Code: AMX-500-CAP
+Batch Number: B2401A
+Manufacturing Date: 2024-01-15
+Expiry Date: 2026-01-14
+Market: Nigeria
+
+Complaint Type: Product Efficacy
+Several patients on Amoxicillin 500mg (batch B2401A) reported the infection did not
+improve after the full course, requiring a switch to an alternative antibiotic.
+Physicians are questioning whether potency of this batch is within specification.
+Requesting information on batch release testing and stability data for batch B2401A.
+Two blister packs from this same batch were also earlier reported for discoloration
+by another customer.

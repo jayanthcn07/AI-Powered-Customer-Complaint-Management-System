@@ -1,0 +1,17 @@
+Customer: Michael Turner
+Email: michael.turner@meridianhealth.com
+Contact: +1-555-201-7734
+Product: Amoxicillin 500mg Capsules
+Product Code: AMX-500-CAP
+Batch Number: B2401A
+Manufacturing Date: 2024-01-15
+Expiry Date: 2026-01-14
+Market: United States
+
+Complaint: We received a shipment of Amoxicillin 500mg capsules (batch B2401A) and
+noticed that approximately 15 capsules in three separate blister packs show visible
+discoloration - a yellowish-brown tint compared to the normal off-white capsules.
+No unusual odor was noted. Product has been stored per label conditions at our
+pharmacy warehouse. We have quarantined the affected packs and are requesting an
+investigation and replacement. Please advise on further steps and whether this
+batch has had similar reports from other customers.
