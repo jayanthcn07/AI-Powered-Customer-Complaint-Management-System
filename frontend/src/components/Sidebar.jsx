@@ -8,7 +8,7 @@ export default function Sidebar() {
       <div className="sidebar-brand">
         <div className="sidebar-mark">Æ</div>
         <div>
-          <div className="sidebar-brand-name">AIVOA QMS</div>
+          <div className="sidebar-brand-name">Vigilon</div>
           <div className="sidebar-brand-sub">Complaint Management</div>
         </div>
       </div>

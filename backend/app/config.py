@@ -18,7 +18,7 @@ class Settings(BaseSettings):
     GROQ_CONTEXT_MODEL: str = "llama-3.3-70b-versatile"
 
     # --- App -----------------------------------------------------------
-    APP_NAME: str = "AI-Powered Customer Complaint Management System"
+    APP_NAME: str = "Vigilon"
     ENVIRONMENT: str = "development"
     CORS_ORIGINS: str = "http://localhost:5173,http://localhost:3000"
 
