@@ -14,8 +14,8 @@ class Settings(BaseSettings):
 
     # --- Groq / LLM -----------------------------------------------------
     GROQ_API_KEY: str = ""
-    GROQ_PRIMARY_MODEL: str = "gemma2-9b-it"
-    GROQ_CONTEXT_MODEL: str = "llama-3.3-70b-versatile"
+    GROQ_PRIMARY_MODEL: str = "openai/gpt-oss-20b"
+    GROQ_CONTEXT_MODEL: str = "openai/gpt-oss-120b"
 
     # --- App -----------------------------------------------------------
     APP_NAME: str = "Vigilon"
